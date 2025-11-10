@@ -1,0 +1,46 @@
+---
+title: "Jin Oong"
+subtitle: "Ph.D. Student"
+
+about:
+  template: trestles
+  image: images/field_orni.jpg
+  links:
+    - icon: github
+      # text: Github
+      href: https://github.com/jinoong31
+    # - icon: mortarboard-fill
+      # text: Google Scholar
+      # href: 
+    - icon: envelope-at
+      # text: Mail
+      href: mailto:oong0002@umn.edu
+---
+
+### What I do!
+
+> I am broadly interested in understanding the drivers of biodiversity and trait evolution, particularly those operating at the genomic level.
+
+Currently, I am interested in examining genomic-level adaptations underlying dietary shifts. Many examples of classic dietary adaptations exist across the animal kingdom, from modifications of taste receptors genes (e.g., giant pandas and hummingbirds) to acquisition of toxicity resistance (e.g., garter snakes). Birds offer an excellent system for examining broad-scale dietary adaptations, and I am primarily working with [Keith Barker](https://barkerlab.weebly.com/) to examine the evolution of carbohydrate diets, and associated genomic adaptations, across the avian tree of life.
+
+Additionally, I am also interested in elucidating how biological and environmental factors impact mutagenesis. Together with [Emilie Richards](https://emiliejrichards.github.io/) and [Suzanne McGaugh](https://sites.google.com/view/mcgaughlab/), we leverage the unique study system of the Mexican tetra (*Astyanax mexicanus*) to investigate how surface and cave-dwelling populations differ in their mutation rates, profile, and how that may relate to broader implications such as oncogenesis.
+
+[Read more about my research!](research.qmd)
+
+------------------------------------------------------------------------
+
+Outside of professional life, I am a self-taught illustrator drawing primarily digital artwork at the moment and an active runner training for a marathon. Languages are also a big part of me! I speak Mandarin, Malay, and Hokkien in addition to English, and I am currently actively learning Japanese!
+
+------------------------------------------------------------------------
+
+### Education
+
+**University of Minnesota, Twin Cities** \| *2022 -*
+
+::: {style="font-size: 0.8em;"}
+Ecology, Evolution, and Behavior, Ph.D. \| *2025 - Present*
+
+Ecology, Evolution, and Behavior, B.S. \| 2022 - 2024
+:::
+
+**INTI International College Penang, Malaysia** \| *2021 - 2022*

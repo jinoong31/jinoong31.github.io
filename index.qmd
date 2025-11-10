@@ -1,0 +1,12 @@
+---
+title: "Welcome!"
+subtitle: "Comparative Evolutionary Biologist in training"
+
+about:
+  template: jolla
+  image: images/itasca_groupphoto.JPG
+---
+
+> I see biodiversity, and avian diversity in particular, as a means of helping nurture interest of curious minds towards nature and biodiversity, especially among communities where the broader social attitudes and beliefs hinder passion for the natural world.
+
+Site under construction! ⚠️
